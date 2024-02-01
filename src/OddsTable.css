@@ -1,0 +1,28 @@
+/* OddsTable.css */
+
+.odds-table-container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .odds-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  .odds-table th,
+  .odds-table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  .chart-container {
+    max-width: 600px;
+    margin: 0 auto;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
